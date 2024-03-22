@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThyGr8N8
+- 👋 Hi, I’m @nathanglenn99
 - 👀 I’m interested in Full-Stack Engineering
 - 🌱 I’m currently learning Web Development, Computer Science and Python
 - 💞️ I’m looking to collaborate on Any Projects
